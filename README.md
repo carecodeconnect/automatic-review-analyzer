@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 Here are the notebook and PDF files for the project:
 
-- [Jupyter Notebook](notebooks/Automatic-Review-Analyzer.ipynb): This notebook contains all the interactive analysis and code for the project.
-- [Project Report (PDF)](Automatic-Review-Analyzer.pdf): This PDF report provides an in-depth discussion of the project's findings.
+- [Jupyter Notebook](https://github.com/carecodeconnect/automatic-review-analyzer/blob/main/notebooks/Automatic-Review-Analyzer.ipynb): This notebook contains all the interactive analysis and code for the project.
+- [Project Report (PDF)](https://github.com/carecodeconnect/automatic-review-analyzer/blob/main/notebooks/Automatic-Review-Analyzer.pdf): This PDF report provides an in-depth discussion of the project's findings.
 
 Please click the links above to view the files.
