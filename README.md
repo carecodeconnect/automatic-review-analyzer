@@ -17,3 +17,11 @@ This system categorizes feedback as positive or negative, providing an automated
 ```bash
 pip install -r requirements.txt
 
+## Important Links
+
+Here are the notebook and PDF files for the project:
+
+- [Jupyter Notebook](notebooks/Automatic-Review-Analyzer.ipynb): This notebook contains all the interactive analysis and code for the project.
+- [Project Report (PDF)](Automatic-Review-Analyzer.pdf): This PDF report provides an in-depth discussion of the project's findings.
+
+Please click the links above to view the files.
