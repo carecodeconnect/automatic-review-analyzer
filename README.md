@@ -16,6 +16,7 @@ This system categorizes feedback as positive or negative, providing an automated
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Important Links
 
